@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
 
 ###
 
@@ -23,10 +23,10 @@
 ###
 
 <div align="center">
-  <a href="homayoonr8@gmail.com" target="_blank">
+  <a href="https://github.com/homayoonr8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/homayoon-riahi" target="_blank">
+  <a href="https://github.com/homayoon-riahi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
